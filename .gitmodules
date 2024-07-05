@@ -1,0 +1,3 @@
+[submodule "pigeonhole"]
+	path = pigeonhole
+	url = https://github.com/mgibson1/pigeonhole
